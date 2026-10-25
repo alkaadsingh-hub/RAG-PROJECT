@@ -1,0 +1,7 @@
+0,1,2,3
+,Rule-based,MachineLearning,Hybrid
+Rankings,effectivenessrankings[87],"learning-to-rank[52],[53],[55],[58]",
+Scores,"convertrankingstoscores[49],[84],[85]
+hand-craftedmetrics[2],[5],[6],[77],[78],[90],[106]–[108]","learning-to-rankwithscores[1]
+predictiveregression[43],[54],[61]","learning-to-weight
+hand-craftedmetrics[49]"

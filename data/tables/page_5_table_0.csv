@@ -1,0 +1,15 @@
+0,1,2,3,4
+,Graphics,Program,Text,UnderlyingData
+FeatureEngineering,"generalimagedescriptors[11],[32],[42],[45]
+elementpositionsorregions[31],[32],[40],[46],
+[47]
+elementstyles[40]","parameters[1],[2]
+communicative
+signals[48]
+designrules[49],[50]","statisticalmodels[3],[45],
+[51],[52]","statistics [38], [43],
+[53]–[55]
+one-hotvector[56]"
+FeatureLearning,"convolutional neural network [12], [13], [31],
+[46],[51],[57]–[61],[61]–[72]
+autoencoder[6],[61]","autoencoder[9],[73]","embeddingmodels[3],[56]",autoencoder[74]

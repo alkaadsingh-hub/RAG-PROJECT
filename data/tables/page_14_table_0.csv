@@ -1,0 +1,10 @@
+0,1
+CharacteristicsofVisualizationData,ResearchProblems
+"Itcontainsmultimodalinformationsuchasprograms,underlyingdata,
+andimages.","How to represent visualization data [9], translate from one modality to
+another[31],andfuseandaligninformationbetweenmodalities[67]."
+Itisunnaturalartifactspurposefullyconstructedwithdomainknowledge.,Howtoautomaticallyinferand/orincorporatewithdomainknowledge[49].
+"Itissusceptibletodetailedlocalinformationsuchasmarks’colorand
+size.","Howtodevelopalgorithmswithhigherprecisionandgranularity[31]orinvolve
+humaninthelooptofixerrorsmadebyalgorithms[115]."
+Itencodesdataandisthereforedata-dependent.,Howtohandledata-dependentproblemssuchasmathematicalreasoning[12].
